@@ -16,6 +16,7 @@ T
 '''
 '''
 耗时还是较多，原因在哪？
+如何检测python程序哪些部分时间开销大？
 '''
 
 class Solution(object):
