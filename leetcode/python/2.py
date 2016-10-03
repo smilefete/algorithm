@@ -10,6 +10,7 @@ Output: 7 -> 0 -> 8
 '''
 Q
 新建另外的对象是为了保持参数的原始性，有没有这个必要？
+内存回收需要吗？
 '''
 
 # Definition for singly-linked list.
